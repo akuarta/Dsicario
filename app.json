@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "hairoman28",
+    "extra": {
+      "eas": {
+        "projectId": "507789ed-0452-493b-b330-159ad9f448db"
+      }
     }
   }
 }
